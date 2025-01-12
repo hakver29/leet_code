@@ -1,2 +1,4 @@
-.DS_Store
+java/.idea/
+rust/.DS_Store
+rust/.idea/
 .idea/
